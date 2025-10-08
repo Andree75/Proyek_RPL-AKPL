@@ -25,6 +25,7 @@
   --> Dashboard Utama
 
   --> Halaman Pengelolaan Paket Wisata (Admin, Travel Manager,Agent)
+  
       Tabel CRUD Paket Wisata
       
           --> Buat Paket
@@ -49,6 +50,7 @@
 
       
   --> Halaman Booking/Reservasi (End-User)
+  
     Tabel CRUD Reservasi
     
       --> Buat Reservasi
