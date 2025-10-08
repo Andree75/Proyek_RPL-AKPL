@@ -2,17 +2,31 @@ Modul Autentikasi pengguna
 
   --> Login
   
-      --> Email dan Password
+      --> Email
       
-      --> gunakan email yang valid dan sudah terdaftar sebelumnya
+      --> password
+
+      --> Link untuk Register (jika belum punya akun)
       
   --> Register
   
-      --> buat akun dengan memasukkan (username, E-mail, password, konfirmasi password)
+      --> Username
+
+      --> E-mail
+
+      --> Password
+
+      --> Konfirmasi Password
       
   --> Reset password
   
-      --> masukkan email terdaftar untuk reset password
+      --> Email
+
+      --> Cek link pemulihan di Gmail
+
+      --> password baru
+
+      --> konfirmasi password baru
 
 Modul Main/Utama
   --> Dashboard Utama
