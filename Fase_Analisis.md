@@ -1,4 +1,4 @@
-**Modul Autentikasi pengguna**
+1. **Modul Autentikasi pengguna**
 
   --> Login (End-user, Admin)
   
@@ -20,9 +20,7 @@
       --> password baru
       --> konfirmasi password baru
 
-
-
-**Modul Main/Utama**
+2. **Modul Main/Utama**
 
   --> Dashboard Utama
 
