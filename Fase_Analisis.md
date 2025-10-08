@@ -34,6 +34,16 @@
 
   --> Halaman Pengelolaan Paket Wisata
 
+      --> CRUD Paket Wisata
+      --> (function) Atur Kuota per-tanggal paket wisata-nya
+
+  --> Halaman pencarian(searching/filter)
+
+      --> sort by Destinasi wisata
+      --> sort by durasi dari Paket wisata
+      --> sort by tanggal keberangkatan
+      --> sort by range harga (terendah/tertinggi)
+
   --> Halaman Payment
 
   --> Halaman admin
