@@ -39,6 +39,8 @@
           --> Hapus Paket
       
       --> (function) Atur Kuota per-tanggal/Batch dari paket wisata-nya
+          --> pilih paket wisata
+          --> Masukkan tanggal/batch dari paket wisata
 
   --> Halaman pencarian(searching/filter) (End-User)
 
